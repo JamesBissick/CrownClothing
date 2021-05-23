@@ -1,13 +1,13 @@
 import React, { Component, useState } from 'react';
 import { Switch, Route } from 'react-router-dom';
-import { auth, createUserProfileDocument } from './firebase/firebase.utils';
+
+import './App.css';
 
 import Homepage from './pages/homepage/homepage.component';
 import ShopPage from './pages/shop/shop.component';
 import Header from './components/header/header.component';
 import LoginRegisterPage from './pages/login-register/login-register.component';
-
-import './App.css';
+import { auth, createUserProfileDocument } from './firebase/firebase.utils';
 
 
 class App extends Component {
