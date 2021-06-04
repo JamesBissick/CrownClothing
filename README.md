@@ -19,4 +19,6 @@ Progressive Web Apps
 
 Firebase
 
-### Site under construction (Deployment SOON)
+### Site Deployed using Surge
+
+[Link](https://crwn-clothing-live.surge.sh/)
