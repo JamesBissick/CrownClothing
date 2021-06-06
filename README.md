@@ -7,7 +7,7 @@ React, React-router-dom, vite
 
 Redux, Reselect
 
-GraphQL, Appolo Client
+GraphQL, Apollo Client
 
 Stripe Api
 
